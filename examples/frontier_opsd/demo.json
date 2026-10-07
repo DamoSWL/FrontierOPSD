@@ -1,0 +1,8 @@
+{
+  "factory": "frontier_opsd.demo:build",
+  "backend": {},
+  "frontier": {
+    "max_steps": 5,
+    "total_epochs": 4
+  }
+}
